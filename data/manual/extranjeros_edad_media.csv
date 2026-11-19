@@ -1,0 +1,22 @@
+codigo_ine,concello,anyo,indicador,sexo,valor,fuente
+27065,Vilalba,2023,edad_media,total,50.55,IGE ficha municipal 27065
+27065,Vilalba,2023,edad_media,hombres,49.13,IGE ficha municipal 27065
+27065,Vilalba,2023,edad_media,mujeres,51.89,IGE ficha municipal 27065
+27065,Vilalba,2025,edad_media,total,50.49,IGE ficha municipal 27065
+27065,Vilalba,2025,edad_media,hombres,48.88,IGE ficha municipal 27065
+27065,Vilalba,2025,edad_media,mujeres,52.01,IGE ficha municipal 27065
+15059,Ordes,2025,edad_media,total,47.26,IGE ficha municipal 15059
+15059,Ordes,2025,edad_media,hombres,45.75,IGE ficha municipal 15059
+15059,Ordes,2025,edad_media,mujeres,48.70,IGE ficha municipal 15059
+36050,Salvaterra de Miño,2024,edad_media,total,46.14,IGE ficha municipal 36050
+36050,Salvaterra de Miño,2024,edad_media,hombres,44.81,IGE ficha municipal 36050
+36050,Salvaterra de Miño,2024,edad_media,mujeres,47.48,IGE ficha municipal 36050
+36050,Salvaterra de Miño,2025,edad_media,total,46.34,IGE ficha municipal 36050
+36050,Salvaterra de Miño,2025,edad_media,hombres,45.09,IGE ficha municipal 36050
+36050,Salvaterra de Miño,2025,edad_media,mujeres,47.59,IGE ficha municipal 36050
+27065,Vilalba,2023,extranjeros,total,681,IGE ficha municipal 27065 (fuente INE)
+27065,Vilalba,2023,extranjeros,hombres,360,IGE ficha municipal 27065 (fuente INE)
+27065,Vilalba,2023,extranjeros,mujeres,321,IGE ficha municipal 27065 (fuente INE)
+36050,Salvaterra de Miño,2024,extranjeros,total,967,IGE ficha municipal 36050 (fuente INE)
+36050,Salvaterra de Miño,2024,extranjeros,hombres,543,IGE ficha municipal 36050 (fuente INE)
+36050,Salvaterra de Miño,2024,extranjeros,mujeres,424,IGE ficha municipal 36050 (fuente INE)

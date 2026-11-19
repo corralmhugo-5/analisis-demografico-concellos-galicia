@@ -1,0 +1,337 @@
+codigo_ine,concello,anyo,indicador,sexo,valor
+15059,Ordes,1996,poblacion,hombres,5802.0
+15059,Ordes,1996,poblacion,mujeres,6091.0
+15059,Ordes,1996,poblacion,total,11893.0
+15059,Ordes,1998,poblacion,hombres,5782.0
+15059,Ordes,1998,poblacion,mujeres,6079.0
+15059,Ordes,1998,poblacion,total,11861.0
+15059,Ordes,1999,poblacion,hombres,5820.0
+15059,Ordes,1999,poblacion,mujeres,6126.0
+15059,Ordes,1999,poblacion,total,11946.0
+15059,Ordes,2000,poblacion,hombres,5789.0
+15059,Ordes,2000,poblacion,mujeres,6153.0
+15059,Ordes,2000,poblacion,total,11942.0
+15059,Ordes,2001,poblacion,hombres,5790.0
+15059,Ordes,2001,poblacion,mujeres,6148.0
+15059,Ordes,2001,poblacion,total,11938.0
+15059,Ordes,2002,poblacion,hombres,5819.0
+15059,Ordes,2002,poblacion,mujeres,6196.0
+15059,Ordes,2002,poblacion,total,12015.0
+15059,Ordes,2003,poblacion,hombres,5974.0
+15059,Ordes,2003,poblacion,mujeres,6292.0
+15059,Ordes,2003,poblacion,total,12266.0
+15059,Ordes,2004,poblacion,hombres,5982.0
+15059,Ordes,2004,poblacion,mujeres,6305.0
+15059,Ordes,2004,poblacion,total,12287.0
+15059,Ordes,2005,poblacion,hombres,5965.0
+15059,Ordes,2005,poblacion,mujeres,6307.0
+15059,Ordes,2005,poblacion,total,12272.0
+15059,Ordes,2006,poblacion,hombres,5975.0
+15059,Ordes,2006,poblacion,mujeres,6319.0
+15059,Ordes,2006,poblacion,total,12294.0
+15059,Ordes,2007,poblacion,hombres,6024.0
+15059,Ordes,2007,poblacion,mujeres,6335.0
+15059,Ordes,2007,poblacion,total,12359.0
+15059,Ordes,2008,poblacion,hombres,6123.0
+15059,Ordes,2008,poblacion,mujeres,6411.0
+15059,Ordes,2008,poblacion,total,12534.0
+15059,Ordes,2009,poblacion,hombres,6264.0
+15059,Ordes,2009,poblacion,mujeres,6493.0
+15059,Ordes,2009,poblacion,total,12757.0
+15059,Ordes,2010,poblacion,hombres,6317.0
+15059,Ordes,2010,poblacion,mujeres,6551.0
+15059,Ordes,2010,poblacion,total,12868.0
+15059,Ordes,2011,poblacion,hombres,6326.0
+15059,Ordes,2011,poblacion,mujeres,6622.0
+15059,Ordes,2011,poblacion,total,12948.0
+15059,Ordes,2012,poblacion,hombres,6327.0
+15059,Ordes,2012,poblacion,mujeres,6636.0
+15059,Ordes,2012,poblacion,total,12963.0
+15059,Ordes,2013,poblacion,hombres,6315.0
+15059,Ordes,2013,poblacion,mujeres,6624.0
+15059,Ordes,2013,poblacion,total,12939.0
+15059,Ordes,2014,poblacion,hombres,6257.0
+15059,Ordes,2014,poblacion,mujeres,6587.0
+15059,Ordes,2014,poblacion,total,12844.0
+15059,Ordes,2015,poblacion,hombres,6201.0
+15059,Ordes,2015,poblacion,mujeres,6575.0
+15059,Ordes,2015,poblacion,total,12776.0
+15059,Ordes,2016,poblacion,hombres,6183.0
+15059,Ordes,2016,poblacion,mujeres,6486.0
+15059,Ordes,2016,poblacion,total,12669.0
+15059,Ordes,2017,poblacion,hombres,6143.0
+15059,Ordes,2017,poblacion,mujeres,6437.0
+15059,Ordes,2017,poblacion,total,12580.0
+15059,Ordes,2018,poblacion,hombres,6157.0
+15059,Ordes,2018,poblacion,mujeres,6475.0
+15059,Ordes,2018,poblacion,total,12632.0
+15059,Ordes,2019,poblacion,hombres,6190.0
+15059,Ordes,2019,poblacion,mujeres,6484.0
+15059,Ordes,2019,poblacion,total,12674.0
+15059,Ordes,2020,poblacion,hombres,6158.0
+15059,Ordes,2020,poblacion,mujeres,6467.0
+15059,Ordes,2020,poblacion,total,12625.0
+15059,Ordes,2021,poblacion,hombres,6160.0
+15059,Ordes,2021,poblacion,mujeres,6445.0
+15059,Ordes,2021,poblacion,total,12605.0
+15059,Ordes,2022,poblacion,hombres,6136.0
+15059,Ordes,2022,poblacion,mujeres,6453.0
+15059,Ordes,2022,poblacion,total,12589.0
+15059,Ordes,2023,poblacion,hombres,6186.0
+15059,Ordes,2023,poblacion,mujeres,6483.0
+15059,Ordes,2023,poblacion,total,12669.0
+15059,Ordes,2024,poblacion,hombres,6243.0
+15059,Ordes,2024,poblacion,mujeres,6529.0
+15059,Ordes,2024,poblacion,total,12772.0
+15059,Ordes,2025,poblacion,hombres,6353.0
+15059,Ordes,2025,poblacion,mujeres,6637.0
+15059,Ordes,2025,poblacion,total,12990.0
+36050,Salvaterra de Miño,1996,poblacion,hombres,4193.0
+36050,Salvaterra de Miño,1996,poblacion,mujeres,4585.0
+36050,Salvaterra de Miño,1996,poblacion,total,8778.0
+36050,Salvaterra de Miño,1998,poblacion,hombres,4110.0
+36050,Salvaterra de Miño,1998,poblacion,mujeres,4479.0
+36050,Salvaterra de Miño,1998,poblacion,total,8589.0
+36050,Salvaterra de Miño,1999,poblacion,hombres,4043.0
+36050,Salvaterra de Miño,1999,poblacion,mujeres,4410.0
+36050,Salvaterra de Miño,1999,poblacion,total,8453.0
+36050,Salvaterra de Miño,2000,poblacion,hombres,4067.0
+36050,Salvaterra de Miño,2000,poblacion,mujeres,4434.0
+36050,Salvaterra de Miño,2000,poblacion,total,8501.0
+36050,Salvaterra de Miño,2001,poblacion,hombres,3987.0
+36050,Salvaterra de Miño,2001,poblacion,mujeres,4333.0
+36050,Salvaterra de Miño,2001,poblacion,total,8320.0
+36050,Salvaterra de Miño,2002,poblacion,hombres,3985.0
+36050,Salvaterra de Miño,2002,poblacion,mujeres,4255.0
+36050,Salvaterra de Miño,2002,poblacion,total,8240.0
+36050,Salvaterra de Miño,2003,poblacion,hombres,3944.0
+36050,Salvaterra de Miño,2003,poblacion,mujeres,4173.0
+36050,Salvaterra de Miño,2003,poblacion,total,8117.0
+36050,Salvaterra de Miño,2004,poblacion,hombres,3913.0
+36050,Salvaterra de Miño,2004,poblacion,mujeres,4106.0
+36050,Salvaterra de Miño,2004,poblacion,total,8019.0
+36050,Salvaterra de Miño,2005,poblacion,hombres,4105.0
+36050,Salvaterra de Miño,2005,poblacion,mujeres,4270.0
+36050,Salvaterra de Miño,2005,poblacion,total,8375.0
+36050,Salvaterra de Miño,2006,poblacion,hombres,4203.0
+36050,Salvaterra de Miño,2006,poblacion,mujeres,4302.0
+36050,Salvaterra de Miño,2006,poblacion,total,8505.0
+36050,Salvaterra de Miño,2007,poblacion,hombres,4362.0
+36050,Salvaterra de Miño,2007,poblacion,mujeres,4399.0
+36050,Salvaterra de Miño,2007,poblacion,total,8761.0
+36050,Salvaterra de Miño,2008,poblacion,hombres,4596.0
+36050,Salvaterra de Miño,2008,poblacion,mujeres,4544.0
+36050,Salvaterra de Miño,2008,poblacion,total,9140.0
+36050,Salvaterra de Miño,2009,poblacion,hombres,4634.0
+36050,Salvaterra de Miño,2009,poblacion,mujeres,4659.0
+36050,Salvaterra de Miño,2009,poblacion,total,9293.0
+36050,Salvaterra de Miño,2010,poblacion,hombres,4747.0
+36050,Salvaterra de Miño,2010,poblacion,mujeres,4709.0
+36050,Salvaterra de Miño,2010,poblacion,total,9456.0
+36050,Salvaterra de Miño,2011,poblacion,hombres,4813.0
+36050,Salvaterra de Miño,2011,poblacion,mujeres,4733.0
+36050,Salvaterra de Miño,2011,poblacion,total,9546.0
+36050,Salvaterra de Miño,2012,poblacion,hombres,4871.0
+36050,Salvaterra de Miño,2012,poblacion,mujeres,4806.0
+36050,Salvaterra de Miño,2012,poblacion,total,9677.0
+36050,Salvaterra de Miño,2013,poblacion,hombres,4930.0
+36050,Salvaterra de Miño,2013,poblacion,mujeres,4886.0
+36050,Salvaterra de Miño,2013,poblacion,total,9816.0
+36050,Salvaterra de Miño,2014,poblacion,hombres,4822.0
+36050,Salvaterra de Miño,2014,poblacion,mujeres,4804.0
+36050,Salvaterra de Miño,2014,poblacion,total,9626.0
+36050,Salvaterra de Miño,2015,poblacion,hombres,4796.0
+36050,Salvaterra de Miño,2015,poblacion,mujeres,4823.0
+36050,Salvaterra de Miño,2015,poblacion,total,9619.0
+36050,Salvaterra de Miño,2016,poblacion,hombres,4764.0
+36050,Salvaterra de Miño,2016,poblacion,mujeres,4802.0
+36050,Salvaterra de Miño,2016,poblacion,total,9566.0
+36050,Salvaterra de Miño,2017,poblacion,hombres,4813.0
+36050,Salvaterra de Miño,2017,poblacion,mujeres,4844.0
+36050,Salvaterra de Miño,2017,poblacion,total,9657.0
+36050,Salvaterra de Miño,2018,poblacion,hombres,4846.0
+36050,Salvaterra de Miño,2018,poblacion,mujeres,4845.0
+36050,Salvaterra de Miño,2018,poblacion,total,9691.0
+36050,Salvaterra de Miño,2019,poblacion,hombres,4905.0
+36050,Salvaterra de Miño,2019,poblacion,mujeres,4914.0
+36050,Salvaterra de Miño,2019,poblacion,total,9819.0
+36050,Salvaterra de Miño,2020,poblacion,hombres,4999.0
+36050,Salvaterra de Miño,2020,poblacion,mujeres,4991.0
+36050,Salvaterra de Miño,2020,poblacion,total,9990.0
+36050,Salvaterra de Miño,2021,poblacion,hombres,5027.0
+36050,Salvaterra de Miño,2021,poblacion,mujeres,5021.0
+36050,Salvaterra de Miño,2021,poblacion,total,10048.0
+36050,Salvaterra de Miño,2022,poblacion,hombres,5017.0
+36050,Salvaterra de Miño,2022,poblacion,mujeres,5062.0
+36050,Salvaterra de Miño,2022,poblacion,total,10079.0
+36050,Salvaterra de Miño,2023,poblacion,hombres,5107.0
+36050,Salvaterra de Miño,2023,poblacion,mujeres,5167.0
+36050,Salvaterra de Miño,2023,poblacion,total,10274.0
+36050,Salvaterra de Miño,2024,poblacion,hombres,5251.0
+36050,Salvaterra de Miño,2024,poblacion,mujeres,5220.0
+36050,Salvaterra de Miño,2024,poblacion,total,10471.0
+36050,Salvaterra de Miño,2025,poblacion,hombres,5303.0
+36050,Salvaterra de Miño,2025,poblacion,mujeres,5314.0
+36050,Salvaterra de Miño,2025,poblacion,total,10617.0
+27065,Vilalba,1996,poblacion,hombres,7684.0
+27065,Vilalba,1996,poblacion,mujeres,8113.0
+27065,Vilalba,1996,poblacion,total,15797.0
+27065,Vilalba,1998,poblacion,hombres,7655.0
+27065,Vilalba,1998,poblacion,mujeres,7990.0
+27065,Vilalba,1998,poblacion,total,15645.0
+27065,Vilalba,1999,poblacion,hombres,7683.0
+27065,Vilalba,1999,poblacion,mujeres,7975.0
+27065,Vilalba,1999,poblacion,total,15658.0
+27065,Vilalba,2000,poblacion,hombres,7682.0
+27065,Vilalba,2000,poblacion,mujeres,8017.0
+27065,Vilalba,2000,poblacion,total,15699.0
+27065,Vilalba,2001,poblacion,hombres,7634.0
+27065,Vilalba,2001,poblacion,mujeres,7989.0
+27065,Vilalba,2001,poblacion,total,15623.0
+27065,Vilalba,2002,poblacion,hombres,7596.0
+27065,Vilalba,2002,poblacion,mujeres,7924.0
+27065,Vilalba,2002,poblacion,total,15520.0
+27065,Vilalba,2003,poblacion,hombres,7630.0
+27065,Vilalba,2003,poblacion,mujeres,7968.0
+27065,Vilalba,2003,poblacion,total,15598.0
+27065,Vilalba,2004,poblacion,hombres,7564.0
+27065,Vilalba,2004,poblacion,mujeres,7920.0
+27065,Vilalba,2004,poblacion,total,15484.0
+27065,Vilalba,2005,poblacion,hombres,7540.0
+27065,Vilalba,2005,poblacion,mujeres,7869.0
+27065,Vilalba,2005,poblacion,total,15409.0
+27065,Vilalba,2006,poblacion,hombres,7577.0
+27065,Vilalba,2006,poblacion,mujeres,7878.0
+27065,Vilalba,2006,poblacion,total,15455.0
+27065,Vilalba,2007,poblacion,hombres,7515.0
+27065,Vilalba,2007,poblacion,mujeres,7843.0
+27065,Vilalba,2007,poblacion,total,15358.0
+27065,Vilalba,2008,poblacion,hombres,7546.0
+27065,Vilalba,2008,poblacion,mujeres,7860.0
+27065,Vilalba,2008,poblacion,total,15406.0
+27065,Vilalba,2009,poblacion,hombres,7576.0
+27065,Vilalba,2009,poblacion,mujeres,7861.0
+27065,Vilalba,2009,poblacion,total,15437.0
+27065,Vilalba,2010,poblacion,hombres,7482.0
+27065,Vilalba,2010,poblacion,mujeres,7845.0
+27065,Vilalba,2010,poblacion,total,15327.0
+27065,Vilalba,2011,poblacion,hombres,7439.0
+27065,Vilalba,2011,poblacion,mujeres,7763.0
+27065,Vilalba,2011,poblacion,total,15202.0
+27065,Vilalba,2012,poblacion,hombres,7379.0
+27065,Vilalba,2012,poblacion,mujeres,7737.0
+27065,Vilalba,2012,poblacion,total,15116.0
+27065,Vilalba,2013,poblacion,hombres,7297.0
+27065,Vilalba,2013,poblacion,mujeres,7683.0
+27065,Vilalba,2013,poblacion,total,14980.0
+27065,Vilalba,2014,poblacion,hombres,7189.0
+27065,Vilalba,2014,poblacion,mujeres,7599.0
+27065,Vilalba,2014,poblacion,total,14788.0
+27065,Vilalba,2015,poblacion,hombres,7131.0
+27065,Vilalba,2015,poblacion,mujeres,7514.0
+27065,Vilalba,2015,poblacion,total,14645.0
+27065,Vilalba,2016,poblacion,hombres,7050.0
+27065,Vilalba,2016,poblacion,mujeres,7437.0
+27065,Vilalba,2016,poblacion,total,14487.0
+27065,Vilalba,2017,poblacion,hombres,6971.0
+27065,Vilalba,2017,poblacion,mujeres,7383.0
+27065,Vilalba,2017,poblacion,total,14354.0
+27065,Vilalba,2018,poblacion,hombres,6894.0
+27065,Vilalba,2018,poblacion,mujeres,7332.0
+27065,Vilalba,2018,poblacion,total,14226.0
+27065,Vilalba,2019,poblacion,hombres,6817.0
+27065,Vilalba,2019,poblacion,mujeres,7255.0
+27065,Vilalba,2019,poblacion,total,14072.0
+27065,Vilalba,2020,poblacion,hombres,6805.0
+27065,Vilalba,2020,poblacion,mujeres,7274.0
+27065,Vilalba,2020,poblacion,total,14079.0
+27065,Vilalba,2021,poblacion,hombres,6728.0
+27065,Vilalba,2021,poblacion,mujeres,7278.0
+27065,Vilalba,2021,poblacion,total,14006.0
+27065,Vilalba,2022,poblacion,hombres,6667.0
+27065,Vilalba,2022,poblacion,mujeres,7214.0
+27065,Vilalba,2022,poblacion,total,13881.0
+27065,Vilalba,2023,poblacion,hombres,6712.0
+27065,Vilalba,2023,poblacion,mujeres,7158.0
+27065,Vilalba,2023,poblacion,total,13870.0
+27065,Vilalba,2024,poblacion,hombres,6648.0
+27065,Vilalba,2024,poblacion,mujeres,7139.0
+27065,Vilalba,2024,poblacion,total,13787.0
+27065,Vilalba,2025,poblacion,hombres,6709.0
+27065,Vilalba,2025,poblacion,mujeres,7143.0
+27065,Vilalba,2025,poblacion,total,13852.0
+15059,Ordes,2021,extranjeros,hombres,286.0
+15059,Ordes,2021,extranjeros,mujeres,332.0
+15059,Ordes,2021,extranjeros,total,618.0
+15059,Ordes,2022,extranjeros,hombres,292.0
+15059,Ordes,2022,extranjeros,mujeres,342.0
+15059,Ordes,2022,extranjeros,total,634.0
+15059,Ordes,2023,extranjeros,hombres,373.0
+15059,Ordes,2023,extranjeros,mujeres,424.0
+15059,Ordes,2023,extranjeros,total,797.0
+15059,Ordes,2024,extranjeros,hombres,450.0
+15059,Ordes,2024,extranjeros,mujeres,487.0
+15059,Ordes,2024,extranjeros,total,937.0
+15059,Ordes,2025,extranjeros,hombres,545.0
+15059,Ordes,2025,extranjeros,mujeres,577.0
+15059,Ordes,2025,extranjeros,total,1122.0
+27065,Vilalba,2021,extranjeros,hombres,269.0
+27065,Vilalba,2021,extranjeros,mujeres,285.0
+27065,Vilalba,2021,extranjeros,total,554.0
+27065,Vilalba,2022,extranjeros,hombres,281.0
+27065,Vilalba,2022,extranjeros,mujeres,296.0
+27065,Vilalba,2022,extranjeros,total,577.0
+27065,Vilalba,2023,extranjeros,hombres,360.0
+27065,Vilalba,2023,extranjeros,mujeres,321.0
+27065,Vilalba,2023,extranjeros,total,681.0
+27065,Vilalba,2024,extranjeros,hombres,393.0
+27065,Vilalba,2024,extranjeros,mujeres,356.0
+27065,Vilalba,2024,extranjeros,total,749.0
+27065,Vilalba,2025,extranjeros,hombres,498.0
+27065,Vilalba,2025,extranjeros,mujeres,421.0
+27065,Vilalba,2025,extranjeros,total,919.0
+36050,Salvaterra de Miño,2021,extranjeros,hombres,486.0
+36050,Salvaterra de Miño,2021,extranjeros,mujeres,355.0
+36050,Salvaterra de Miño,2021,extranjeros,total,841.0
+36050,Salvaterra de Miño,2022,extranjeros,hombres,454.0
+36050,Salvaterra de Miño,2022,extranjeros,mujeres,349.0
+36050,Salvaterra de Miño,2022,extranjeros,total,803.0
+36050,Salvaterra de Miño,2023,extranjeros,hombres,468.0
+36050,Salvaterra de Miño,2023,extranjeros,mujeres,387.0
+36050,Salvaterra de Miño,2023,extranjeros,total,855.0
+36050,Salvaterra de Miño,2024,extranjeros,hombres,543.0
+36050,Salvaterra de Miño,2024,extranjeros,mujeres,424.0
+36050,Salvaterra de Miño,2024,extranjeros,total,967.0
+36050,Salvaterra de Miño,2025,extranjeros,hombres,589.0
+36050,Salvaterra de Miño,2025,extranjeros,mujeres,507.0
+36050,Salvaterra de Miño,2025,extranjeros,total,1096.0
+15059,Ordes,2021,pct_extranjeros,total,4.91
+15059,Ordes,2022,pct_extranjeros,total,5.04
+15059,Ordes,2023,pct_extranjeros,total,6.29
+15059,Ordes,2024,pct_extranjeros,total,7.34
+15059,Ordes,2025,pct_extranjeros,total,8.65
+27065,Vilalba,2021,pct_extranjeros,total,3.95
+27065,Vilalba,2022,pct_extranjeros,total,4.15
+27065,Vilalba,2023,pct_extranjeros,total,4.9
+27065,Vilalba,2024,pct_extranjeros,total,5.42
+27065,Vilalba,2025,pct_extranjeros,total,6.59
+36050,Salvaterra de Miño,2021,pct_extranjeros,total,8.43
+36050,Salvaterra de Miño,2022,pct_extranjeros,total,7.95
+36050,Salvaterra de Miño,2023,pct_extranjeros,total,8.31
+36050,Salvaterra de Miño,2024,pct_extranjeros,total,9.25
+36050,Salvaterra de Miño,2025,pct_extranjeros,total,10.31
+27065,Vilalba,2023,edad_media,total,50.55
+27065,Vilalba,2023,edad_media,hombres,49.13
+27065,Vilalba,2023,edad_media,mujeres,51.89
+27065,Vilalba,2025,edad_media,total,50.49
+27065,Vilalba,2025,edad_media,hombres,48.88
+27065,Vilalba,2025,edad_media,mujeres,52.01
+15059,Ordes,2025,edad_media,total,47.26
+15059,Ordes,2025,edad_media,hombres,45.75
+15059,Ordes,2025,edad_media,mujeres,48.7
+36050,Salvaterra de Miño,2024,edad_media,total,46.14
+36050,Salvaterra de Miño,2024,edad_media,hombres,44.81
+36050,Salvaterra de Miño,2024,edad_media,mujeres,47.48
+36050,Salvaterra de Miño,2025,edad_media,total,46.34
+36050,Salvaterra de Miño,2025,edad_media,hombres,45.09
+36050,Salvaterra de Miño,2025,edad_media,mujeres,47.59
